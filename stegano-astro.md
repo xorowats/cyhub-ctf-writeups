@@ -12,6 +12,6 @@ We can see that there's a zip file inside the png and it has a flag.txt file ins
 ![Banner](images/ss3.PNG?raw=true "ss3")
 
 Now we can cat the file and see if we get the flag.
-![Banner](images/ss3.PNG?raw=true "ss4")
+![Banner](images/ss4.PNG?raw=true "ss4")
 
 Yup, there it is
