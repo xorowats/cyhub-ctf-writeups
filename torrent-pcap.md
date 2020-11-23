@@ -13,4 +13,4 @@ Previously I tried looking with other packet analyzer tools, but found nothing, 
 ![Banner](images/tp4.PNG?raw=true "tp4")
 Using the overlaps I managed to reconstruct the image by hand :D But I'm sure with these findings I could write a script to automate this. And here's the flag.
 
-![Banner](images/tp2.PNG?raw=true "tp5")
+![Banner](images/tp5.PNG?raw=true "tp5")
